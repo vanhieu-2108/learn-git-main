@@ -1,9 +1,11 @@
 # learn-git-main
 
-## Push
+# Code Typescript
 
-### Không cần origin cũng có thể pull từ nhánh default
-
-#### Test Conflict
-
-#### Conflict
+```ts
+interface Person {
+  name: string;
+  age: number;
+  address: string;
+}
+```
