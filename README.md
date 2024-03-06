@@ -47,3 +47,5 @@ console.log(a + b);
 | --- | ---- |
 | 1   | Hieu |
 | 2   | Huy  |
+
+Handle B da edit
